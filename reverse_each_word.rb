@@ -5,4 +5,5 @@ def reverse_each_word(str)
     word1 = word.reverse
     arr1.push(word1)
   end
+  arr1
 end
