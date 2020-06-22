@@ -6,7 +6,7 @@ def reverse_each_word(str)
   #   arr1.push(word1)
   # end
   arr.collect do |word|
-    word1 = word.reversed
+    word1 = word.reverse
   end
   # arr1.join(" ")
 
