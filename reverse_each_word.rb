@@ -10,5 +10,4 @@ def reverse_each_word(str)
   end
   arr.join(" ")
 
-
 end
